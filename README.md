@@ -1,1 +1,1 @@
-This is a simple web app to mark your watched movies and make a watchlist for the movies you have already watched.
+This is a simple web app in which you can mark your watched movies and make a watchlist for the movies you have already watched.It searches for the movie you want from an open source API and then you can select a mivie and give it rating and also add it to your watchlist.
